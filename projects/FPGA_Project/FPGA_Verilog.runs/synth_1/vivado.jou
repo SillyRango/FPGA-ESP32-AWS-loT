@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Jul 31 16:50:20 2020
+# Process ID: 8440
+# Current directory: D:/学习/Xilinx实习/课程设计/Gyro_Demo_Verilog/Gyro_Demo_Verilog.runs/synth_1
+# Command line: vivado.exe -log Gyro_Demo_Verilog.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Gyro_Demo_Verilog.tcl
+# Log file: D:/学习/Xilinx实习/课程设计/Gyro_Demo_Verilog/Gyro_Demo_Verilog.runs/synth_1/Gyro_Demo_Verilog.vds
+# Journal file: D:/学习/Xilinx实习/课程设计/Gyro_Demo_Verilog/Gyro_Demo_Verilog.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Gyro_Demo_Verilog.tcl -notrace

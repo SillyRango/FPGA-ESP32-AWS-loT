@@ -1,0 +1,29 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/vivadosetup/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 4e6a62597faf4353b7f0faff4158e58b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot Gyro_Demo_Verilog_behav xil_defaultlib.Gyro_Demo_Verilog xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.IOBUF
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.MMCME2_ADV(CLKFBOUT_MULT_F=10.0,...
+Compiling module unisims_ver.BUFG
+Compiling module xil_defaultlib.clk_wiz_0_clk_wiz
+Compiling module xil_defaultlib.clk_wiz_0
+Compiling module xil_defaultlib.clk_division
+Compiling module xil_defaultlib.Trigger_Generator
+Compiling module xil_defaultlib.Gyro_Read_Data
+Compiling module xil_defaultlib.Gyro_Init
+Compiling module xil_defaultlib.Driver_Gyro
+Compiling module xil_defaultlib.UART_Rx
+Compiling module xil_defaultlib.UART_Tx
+Compiling module xil_defaultlib.Driver_UART_default
+Compiling module xil_defaultlib.UART_Package
+Compiling module xil_defaultlib.UART_Ctrl
+Compiling module xil_defaultlib.Driver_IIC_default
+Compiling module xil_defaultlib.Gyro_Demo_Verilog
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Gyro_Demo_Verilog_behav
